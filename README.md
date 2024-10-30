@@ -5,12 +5,12 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con un in
 
 ## Experiencia y Habilidades Técnicas
 
-- **Lenguajes de Programación**: Java, Kotlin, SQL, JavaScript
-- **Frameworks y Herramientas**: Android Studio, Git, SQLite
+- **Lenguajes de Programación**: Java, SQL, JavaScript
+- **Frameworks y Herramientas**: Git, SQLite
 - **Desarrollo Móvil**: Experiencia en el desarrollo de aplicaciones para Android
 - **Bases de Datos**: Diseño y gestión de bases de datos relacionales
 
-## Educación
+## Educación :mortar_board:
 
 Actualmente curso el **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**, enfocado en la creación de aplicaciones tanto para dispositivos móviles como para entornos de escritorio.
 
@@ -22,7 +22,7 @@ Algunos de los proyectos en los que he trabajado durante mi formación incluyen:
 - **Bases de Datos**: Diseño y gestión de sistemas de bases de datos para optimizar el almacenamiento y recuperación de datos.
 - **Interfaces de Usuario**: Creación de interfaces intuitivas y amigables para mejorar la experiencia del usuario.
 
-## Contacto
+## Contacto :envelope_with_arrow:
 
 - **Correo Electrónico**: alejandrolsalvatierra@gmail.com
 
